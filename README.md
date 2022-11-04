@@ -1,0 +1,1 @@
+## Google beta sürümüdür.
